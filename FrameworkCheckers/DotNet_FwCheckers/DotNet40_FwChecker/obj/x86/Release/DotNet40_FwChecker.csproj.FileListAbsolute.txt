@@ -1,0 +1,5 @@
+E:\AW_Dev\Source\FrameworkCheckers\DotNet_FwCheckers\DotNet40_FwChecker\bin\Release\DotNet40_FwChecker.exe
+E:\AW_Dev\Source\FrameworkCheckers\DotNet_FwCheckers\DotNet40_FwChecker\bin\Release\DotNet40_FwChecker.pdb
+E:\AW_Dev\Source\FrameworkCheckers\DotNet_FwCheckers\DotNet40_FwChecker\obj\x86\Release\ResolveAssemblyReference.cache
+E:\AW_Dev\Source\FrameworkCheckers\DotNet_FwCheckers\DotNet40_FwChecker\obj\x86\Release\DotNet40_FwChecker.exe
+E:\AW_Dev\Source\FrameworkCheckers\DotNet_FwCheckers\DotNet40_FwChecker\obj\x86\Release\DotNet40_FwChecker.pdb

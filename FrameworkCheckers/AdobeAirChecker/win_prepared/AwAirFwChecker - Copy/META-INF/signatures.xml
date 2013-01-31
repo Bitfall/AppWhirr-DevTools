@@ -1,0 +1,37 @@
+<signatures>
+  <Signature xmlns="http://www.w3.org/2000/09/xmldsig#" Id="PackageSignature">
+    <SignedInfo>
+      <CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+      <SignatureMethod Algorithm="http://www.w3.org/TR/xmldsig-core#rsa-sha1"/>
+      <Reference URI="#PackageContents">
+        <Transforms>
+          <Transform Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+        </Transforms>
+        <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"/>
+        <DigestValue>G0YfcRfJqgN4I2lnb19b9wOLbvfBDwv348d8bvjgnZk=</DigestValue>
+      </Reference>
+    </SignedInfo>
+    <SignatureValue Id="PackageSignatureValue">G467hoGJT3VrufcenZX38y9Fv+dX4xXVqviVv7XpoptCSkogsAaQJTYo2MthOgKb2MmoQ1rKRUkJ
+9X8+1edJlh0xt7xbuvlrwBC4dPA65TMBONzUVqTQWwEwvsrh/pvqgPhfDIR9nWxCkN9GP5vv2B5h
+bn8lJnkxLxbJW2/rOqk=</SignatureValue>
+    <KeyInfo>
+      <X509Data>
+        <X509Certificate>MIIB2jCCAUKgAwIBAgIbLTRlYjVmY2IwOjEzNjJiMDY5MTY0Oi04MDAwMA0GCSqGSIb3DQEBBQUA
+MBkxFzAVBgNVBAMTDkF3QWlyRndDaGVja2VyMB4XDTEyMDMxODEyNTUxMloXDTE3MDMxOTEyNTUx
+MlowGTEXMBUGA1UEAxMOQXdBaXJGd0NoZWNrZXIwgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGB
+AKvJZj87oEgJ9YzR2Pmtz0/MzVpUAdwg4m1qStx2i8xINmfxT6/S6o1xHwazbV8U/Ep3nG+QfsQQ
+tGFnSeAtdvBngyqcSmKuCMzuKKWsE36JuW2RJNcEic0alRDhmPDbNM06vpsszjLxwph2ltQktder
+xgF+LVYK8KYZxy6eoesFAgMBAAGjFzAVMBMGA1UdJQQMMAoGCCsGAQUFBwMDMA0GCSqGSIb3DQEB
+BQUAA4IAgQAHNhA0gkG+PBMScT4ikKXqJonV+LE3oCEnDaV/yHPCBy5ryKZxO+D3UTu82gyZgp6e
+Gzk70fy8RGpr3SwNwwbm9G4t/kGxSf/9Pp3hUNAD27537LBE4qGJJ/tE4/TyKu4cL4fyFV90e2Gr
+XEWKSeEpQH6HKGofPRRDJacsnESxMQ==</X509Certificate>
+      </X509Data>
+    </KeyInfo>
+    <Object>
+      <Manifest Id="PackageContents">
+        <Reference URI="mimetype"><DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod><DigestValue>0/oCb84THKMagtI0Dy0KogEu92TegdesqRr/clXct1c=</DigestValue></Reference><Reference URI="META-INF/AIR/application.xml"><DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod><DigestValue>gglV/rPrqdUtC7JLtkyLGdnVN/2nEPFlBZg8GvjGz+I=</DigestValue></Reference><Reference URI="AwAirFwChecker.swf"><DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod><DigestValue>yTpe+I6LCB6TPakHcL2kEsm3x2fGp/NII0N92elQ2RQ=</DigestValue></Reference>
+      </Manifest>
+    </Object>
+    
+  </Signature>
+</signatures>

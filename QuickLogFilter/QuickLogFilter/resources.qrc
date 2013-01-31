@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/qml/views">
+        <file alias="mainWindowContentView">qml/mainWindowContentView.qml</file>
+        <file alias="Button.qml">qml/Button.qml</file>
+        <file alias="ScrollBar.qml">qml/ScrollBar.qml</file>
+        <file alias="Scrollable.qml">qml/Scrollable.qml</file>
+    </qresource>
+</RCC>

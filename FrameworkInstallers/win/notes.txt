@@ -1,0 +1,19 @@
+
+# dotNet infos
+* MSDN page: http://msdn.microsoft.com/en-us/netframework/aa569263
+** contains every redist version! 
+
+# dotNet35_SP1_Web(installs_every_dotnet_version_from_20_upto_35sp)
+* Installs every version of .Net from 2.0 upto 3.5 SP1, tested with a 3.0 app and works
+
+# DX_2010Jun_web
+* This is the last DX SDK's redist (with web-install).
+* The newer DX versions are not separated to DX redists but are part of the OS and SPs
+
+# msvc20XXredistSP1_withMFCUpdate
+* currently this is the best resource to find these redist versions: http://www.microsoft.com/download/en/search.aspx?q=Visual%20C%2b%2b%20Redistributable&p=0&r=10&t=&s=availabledate~Descending
+* tested with MSVC2005 redist: the latest related (for the same version of MSVC) redist (currently msvc2005 SP1 with MFC Update) contains every previously released redist file
+** so as the test indicated: it's enough to support tha latest MSVC redist for 1 version of MSVC (but have to support the MSVC versions separatly: 2005, 2008, ...)
+
+# Java
+* a 32 bit process (which AppWhirr currently is) can only start 32 bit java framework - so even in a 64 bit Win we have to install the 32 bit java runtime

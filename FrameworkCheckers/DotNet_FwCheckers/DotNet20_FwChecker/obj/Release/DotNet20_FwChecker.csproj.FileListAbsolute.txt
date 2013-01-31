@@ -1,0 +1,16 @@
+E:\AW_Dev\Source\FrameworkCheckers\DotNet20_FwChecker\DotNet20_FwChecker\bin\Release\DotNet20_FwChecker.exe
+E:\AW_Dev\Source\FrameworkCheckers\DotNet20_FwChecker\DotNet20_FwChecker\bin\Release\DotNet20_FwChecker.pdb
+E:\AW_Dev\Source\FrameworkCheckers\DotNet20_FwChecker\DotNet20_FwChecker\obj\Release\ResolveAssemblyReference.cache
+E:\AW_Dev\Source\FrameworkCheckers\DotNet20_FwChecker\DotNet20_FwChecker\obj\Release\DotNet20_FwChecker.Properties.Resources.resources
+E:\AW_Dev\Source\FrameworkCheckers\DotNet20_FwChecker\DotNet20_FwChecker\obj\Release\DotNet20_FwChecker.csproj.GenerateResource.Cache
+E:\AW_Dev\Source\FrameworkCheckers\DotNet20_FwChecker\DotNet20_FwChecker\obj\Release\DotNet20_FwChecker.exe
+E:\AW_Dev\Source\FrameworkCheckers\DotNet20_FwChecker\DotNet20_FwChecker\obj\Release\DotNet20_FwChecker.pdb
+E:\AW_Dev\Source\FrameworkCheckers\DotNet_FwCheckers\DotNet20_FwChecker\obj\Release\DotNet20_FwChecker.exe
+E:\AW_Dev\Source\FrameworkCheckers\DotNet_FwCheckers\DotNet20_FwChecker\obj\Release\DotNet20_FwChecker.pdb
+E:\AW_Dev\Source\FrameworkCheckers\DotNet_FwCheckers\DotNet20_FwChecker\bin\Release\DotNet20_FwChecker.exe.config
+E:\AW_Dev\Source\FrameworkCheckers\DotNet_FwCheckers\DotNet20_FwChecker\bin\Release\DotNet20_FwChecker.exe
+E:\AW_Dev\Source\FrameworkCheckers\DotNet_FwCheckers\DotNet20_FwChecker\bin\Release\DotNet20_FwChecker.pdb
+E:\AW_Dev\Source\FrameworkCheckers\DotNet_FwCheckers\DotNet20_FwChecker\obj\Release\ResolveAssemblyReference.cache
+E:\AW_Dev\Source\FrameworkCheckers\DotNet_FwCheckers\DotNet20_FwChecker\obj\Release\DotNet20_FwChecker.Properties.Resources.resources
+E:\AW_Dev\Source\FrameworkCheckers\DotNet_FwCheckers\DotNet20_FwChecker\obj\Release\ResGen.read.1.tlog
+E:\AW_Dev\Source\FrameworkCheckers\DotNet_FwCheckers\DotNet20_FwChecker\obj\Release\ResGen.write.1.tlog

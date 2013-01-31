@@ -1,0 +1,6 @@
+E:\AW_Dev\Source\FrameworkCheckers\DotNet_FwCheckers\DotNet30_FwChecker\bin\Release\DotNet30_FwChecker.exe.config
+E:\AW_Dev\Source\FrameworkCheckers\DotNet_FwCheckers\DotNet30_FwChecker\bin\Release\DotNet30_FwChecker.exe
+E:\AW_Dev\Source\FrameworkCheckers\DotNet_FwCheckers\DotNet30_FwChecker\bin\Release\DotNet30_FwChecker.pdb
+E:\AW_Dev\Source\FrameworkCheckers\DotNet_FwCheckers\DotNet30_FwChecker\obj\Release\ResolveAssemblyReference.cache
+E:\AW_Dev\Source\FrameworkCheckers\DotNet_FwCheckers\DotNet30_FwChecker\obj\Release\DotNet30_FwChecker.exe
+E:\AW_Dev\Source\FrameworkCheckers\DotNet_FwCheckers\DotNet30_FwChecker\obj\Release\DotNet30_FwChecker.pdb

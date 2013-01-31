@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="DotNet_FwCheckers">
+</Property><Property Name="Solution File" Value="E:\AW_Dev\Source\FrameworkCheckers\DotNet_FwCheckers\DotNet_FwCheckers.sln">
+</Property><Property Name="User Options File" Value="E:\AW_Dev\Source\FrameworkCheckers\DotNet_FwCheckers\DotNet_FwCheckers.suo">
+</Property><Property Name="Date" Value="2011. november 28.">
+</Property><Property Name="Time" Value="21:31">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="DotNet_FwCheckers.sln" Description="File successfully backed up as E:\AW_Dev\Source\FrameworkCheckers\DotNet_FwCheckers\Backup\DotNet_FwCheckers.sln">
+</Event><Event ErrorLevel="0" Project="" Source="DotNet_FwCheckers.suo" Description="File successfully backed up as E:\AW_Dev\Source\FrameworkCheckers\DotNet_FwCheckers\Backup\DotNet_FwCheckers.suo">
+</Event><Event ErrorLevel="0" Project="DotNet20_FwChecker" Source="DotNet20_FwChecker\DotNet20_FwChecker.csproj" Description="Project file successfully backed up as E:\AW_Dev\Source\FrameworkCheckers\DotNet_FwCheckers\Backup\DotNet20_FwChecker\DotNet20_FwChecker.csproj">
+</Event><Event ErrorLevel="0" Project="DotNet20_FwChecker" Source="DotNet20_FwChecker\Program.cs" Description="File successfully backed up as E:\AW_Dev\Source\FrameworkCheckers\DotNet_FwCheckers\Backup\DotNet20_FwChecker\Program.cs">
+</Event><Event ErrorLevel="0" Project="DotNet20_FwChecker" Source="DotNet20_FwChecker\Properties\AssemblyInfo.cs" Description="File successfully backed up as E:\AW_Dev\Source\FrameworkCheckers\DotNet_FwCheckers\Backup\DotNet20_FwChecker\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="DotNet20_FwChecker" Source="DotNet20_FwChecker\Properties\Resources.Designer.cs" Description="File successfully backed up as E:\AW_Dev\Source\FrameworkCheckers\DotNet_FwCheckers\Backup\DotNet20_FwChecker\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="DotNet20_FwChecker" Source="DotNet20_FwChecker\Properties\Settings.Designer.cs" Description="File successfully backed up as E:\AW_Dev\Source\FrameworkCheckers\DotNet_FwCheckers\Backup\DotNet20_FwChecker\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="DotNet20_FwChecker" Source="DotNet20_FwChecker\Properties\Settings.settings" Description="File successfully backed up as E:\AW_Dev\Source\FrameworkCheckers\DotNet_FwCheckers\Backup\DotNet20_FwChecker\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="DotNet20_FwChecker" Source="DotNet20_FwChecker\Properties\Resources.resx" Description="File successfully backed up as E:\AW_Dev\Source\FrameworkCheckers\DotNet_FwCheckers\Backup\DotNet20_FwChecker\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="DotNet20_FwChecker" Source="DotNet20_FwChecker\DotNet20_FwChecker.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="DotNet20_FwChecker" Source="DotNet20_FwChecker\DotNet20_FwChecker.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="DotNet30_FwChecker" Source="DotNet30_FwChecker\DotNet30_FwChecker.csproj" Description="Project file successfully backed up as E:\AW_Dev\Source\FrameworkCheckers\DotNet_FwCheckers\Backup\DotNet30_FwChecker\DotNet30_FwChecker.csproj">
+</Event><Event ErrorLevel="0" Project="DotNet30_FwChecker" Source="DotNet30_FwChecker\Program.cs" Description="File successfully backed up as E:\AW_Dev\Source\FrameworkCheckers\DotNet_FwCheckers\Backup\DotNet30_FwChecker\Program.cs">
+</Event><Event ErrorLevel="0" Project="DotNet30_FwChecker" Source="DotNet30_FwChecker\Properties\AssemblyInfo.cs" Description="File successfully backed up as E:\AW_Dev\Source\FrameworkCheckers\DotNet_FwCheckers\Backup\DotNet30_FwChecker\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="DotNet30_FwChecker" Source="DotNet30_FwChecker\DotNet30_FwChecker.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="DotNet30_FwChecker" Source="DotNet30_FwChecker\DotNet30_FwChecker.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="DotNet35_FwChecker" Source="DotNet35_FwChecker\DotNet35_FwChecker.csproj" Description="Project file successfully backed up as E:\AW_Dev\Source\FrameworkCheckers\DotNet_FwCheckers\Backup\DotNet35_FwChecker\DotNet35_FwChecker.csproj">
+</Event><Event ErrorLevel="0" Project="DotNet35_FwChecker" Source="DotNet35_FwChecker\Program.cs" Description="File successfully backed up as E:\AW_Dev\Source\FrameworkCheckers\DotNet_FwCheckers\Backup\DotNet35_FwChecker\Program.cs">
+</Event><Event ErrorLevel="0" Project="DotNet35_FwChecker" Source="DotNet35_FwChecker\Properties\AssemblyInfo.cs" Description="File successfully backed up as E:\AW_Dev\Source\FrameworkCheckers\DotNet_FwCheckers\Backup\DotNet35_FwChecker\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="DotNet35_FwChecker" Source="DotNet35_FwChecker\DotNet35_FwChecker.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="DotNet35_FwChecker" Source="DotNet35_FwChecker\DotNet35_FwChecker.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="DotNet_FwCheckers.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="DotNet_FwCheckers.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="DotNet20_FwChecker" Source="DotNet20_FwChecker\DotNet20_FwChecker.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="DotNet30_FwChecker" Source="DotNet30_FwChecker\DotNet30_FwChecker.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="DotNet35_FwChecker" Source="DotNet35_FwChecker\DotNet35_FwChecker.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

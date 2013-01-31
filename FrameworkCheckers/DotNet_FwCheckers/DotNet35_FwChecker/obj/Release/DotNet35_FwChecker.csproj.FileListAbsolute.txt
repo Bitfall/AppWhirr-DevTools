@@ -1,0 +1,6 @@
+E:\AW_Dev\Source\FrameworkCheckers\DotNet_FwCheckers\DotNet35_FwChecker\bin\Release\DotNet35_FwChecker.exe.config
+E:\AW_Dev\Source\FrameworkCheckers\DotNet_FwCheckers\DotNet35_FwChecker\bin\Release\DotNet35_FwChecker.exe
+E:\AW_Dev\Source\FrameworkCheckers\DotNet_FwCheckers\DotNet35_FwChecker\bin\Release\DotNet35_FwChecker.pdb
+E:\AW_Dev\Source\FrameworkCheckers\DotNet_FwCheckers\DotNet35_FwChecker\obj\Release\ResolveAssemblyReference.cache
+E:\AW_Dev\Source\FrameworkCheckers\DotNet_FwCheckers\DotNet35_FwChecker\obj\Release\DotNet35_FwChecker.exe
+E:\AW_Dev\Source\FrameworkCheckers\DotNet_FwCheckers\DotNet35_FwChecker\obj\Release\DotNet35_FwChecker.pdb
